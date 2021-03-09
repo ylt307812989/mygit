@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datestructrues/datestructrues.iml" filepath="$PROJECT_DIR$/datestructrues/datestructrues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_sj_j_g_s_f.iml" filepath="$PROJECT_DIR$/java_sj_j_g_s_f.iml" />
+    </modules>
+  </component>
+</project>
